@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can chat with me on my socials (@eduardadsg) or sending me an email (mepastore18@gmail.com)
 - 😄 Pronouns: She/her
+
