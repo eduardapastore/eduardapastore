@@ -1,5 +1,3 @@
-### 👋 Hi, I am Eduarda Pastore
-
 ### Socials
 [![Instagram](    https://img.shields.io/badge/Instagram-870BD3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardadsg_/) 
 [![Twitter](    https://img.shields.io/badge/Twitter-870BD3?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eduardadsgs?t=ZjlEvtsccemgtWvwOhzvKA&s=09)
