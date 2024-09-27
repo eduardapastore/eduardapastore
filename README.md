@@ -17,5 +17,3 @@
 </header>
 
 ---
-
-![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardapastore&show_icons=true&theme=midnight-purple&title_color=870BD3&icon_color=870BD3)
